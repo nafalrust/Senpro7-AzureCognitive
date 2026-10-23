@@ -1,0 +1,4 @@
+image,caption,caption_confidence,n_objects,objects,top_tags
+224b8b30-cc67-11f1-b1a3-5bda642ff934.jpg.webp,a group of people holding a banner,0.934,4,person,"clothing, outdoor, person, flag, woman"
+WhatsApp Image 2026-10-23 at 09.15.42 (1).jpeg,a dog lying on a brick surface,0.762,1,dog,"ground, outdoor, dog breed, animal, pet"
+WhatsApp Image 2026-10-23 at 09.15.42.jpeg,a dog walking on the street,0.733,2,"car, terrier","outdoor, wheel, mammal, tire, animal"

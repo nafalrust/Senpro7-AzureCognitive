@@ -1,0 +1,7 @@
+azure-ai-vision-imageanalysis
+python-dotenv
+matplotlib
+pillow
+pandas
+numpy
+requests

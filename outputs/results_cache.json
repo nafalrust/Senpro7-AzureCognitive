@@ -1,0 +1,1367 @@
+[
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/224b8b30-cc67-11f1-b1a3-5bda642ff934.jpg.webp",
+    "width": 640,
+    "height": 360,
+    "caption": "a group of people holding a banner",
+    "caption_confidence": 0.9339982271194458,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.612,
+        "x": 92,
+        "y": 81,
+        "width": 82,
+        "height": 82
+      },
+      {
+        "name": "person",
+        "confidence": 0.571,
+        "x": 157,
+        "y": 76,
+        "width": 84,
+        "height": 84
+      },
+      {
+        "name": "person",
+        "confidence": 0.524,
+        "x": 532,
+        "y": 76,
+        "width": 57,
+        "height": 159
+      },
+      {
+        "name": "person",
+        "confidence": 0.542,
+        "x": 1,
+        "y": 78,
+        "width": 51,
+        "height": 274
+      }
+    ],
+    "tags": [
+      "clothing",
+      "outdoor",
+      "person",
+      "flag",
+      "woman",
+      "man",
+      "banner",
+      "rebellion",
+      "demonstration",
+      "tree",
+      "text",
+      "grass",
+      "presentation",
+      "human face",
+      "people",
+      "sign",
+      "standing",
+      "group",
+      "crowd"
+    ],
+    "dense_captions": [
+      "a person wearing a mask and a scarf",
+      "a person holding a ball",
+      "a close up of a white jacket",
+      "a person wearing a mask",
+      "a person in a blue jacket",
+      "a group of people holding signs",
+      "a person wearing a mask",
+      "a skateboard with a brick wall"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.42 (1).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a dog lying on a brick surface",
+    "caption_confidence": 0.7615612745285034,
+    "objects": [
+      {
+        "name": "dog",
+        "confidence": 0.879,
+        "x": 192,
+        "y": 344,
+        "width": 581,
+        "height": 644
+      }
+    ],
+    "tags": [
+      "ground",
+      "outdoor",
+      "dog breed",
+      "animal",
+      "pet",
+      "dog",
+      "mammal",
+      "sidewalk",
+      "street",
+      "brown"
+    ],
+    "dense_captions": [
+      "a wooden table in a room",
+      "a close up of a cat's tail",
+      "a close up of a stone",
+      "a close up of a stone",
+      "a close up of a dog paw",
+      "a close-up of a grey brick",
+      "a close-up of a grey brick"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.42.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a dog walking on the street",
+    "caption_confidence": 0.7327010035514832,
+    "objects": [
+      {
+        "name": "car",
+        "confidence": 0.761,
+        "x": 0,
+        "y": 0,
+        "width": 1158,
+        "height": 404
+      },
+      {
+        "name": "terrier",
+        "confidence": 0.776,
+        "x": 175,
+        "y": 655,
+        "width": 889,
+        "height": 591
+      }
+    ],
+    "tags": [
+      "outdoor",
+      "wheel",
+      "mammal",
+      "tire",
+      "animal",
+      "land vehicle",
+      "vehicle",
+      "dog breed",
+      "ground",
+      "car",
+      "road",
+      "pet",
+      "auto part",
+      "dog",
+      "street"
+    ],
+    "dense_captions": [
+      "a dog walking on the road",
+      "a close up of a tire",
+      "a close up of a tire",
+      "a close up of a tire",
+      "a close up of a furry animal",
+      "close-up of a car tire",
+      "a close up of a dog's foot",
+      "a dog with its mouth open"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.43 (1).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a person sitting at a table with food on plates",
+    "caption_confidence": 0.7996453046798706,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.879,
+        "x": 0,
+        "y": 0,
+        "width": 644,
+        "height": 950
+      },
+      {
+        "name": "table",
+        "confidence": 0.505,
+        "x": 217,
+        "y": 265,
+        "width": 885,
+        "height": 1276
+      }
+    ],
+    "tags": [
+      "meal",
+      "food",
+      "table",
+      "tableware",
+      "person",
+      "clothing",
+      "culinary art",
+      "supper",
+      "lunch",
+      "indoor",
+      "platter",
+      "snack",
+      "plate",
+      "cuisine",
+      "banquet",
+      "fast food",
+      "dinner",
+      "brunch",
+      "delicacy",
+      "drink",
+      "people",
+      "group",
+      "full",
+      "various",
+      "dish"
+    ],
+    "dense_captions": [
+      "a plate of food on a table",
+      "a cup of red liquid",
+      "a plate of food with sauces",
+      "a person in a black shirt",
+      "a glass jar with ice and liquid",
+      "a plate of food with a boiled egg and rice",
+      "a small container with red liquid",
+      "a close up of a jar"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.43 (2).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a rocky beach with a cliff and a green hill",
+    "caption_confidence": 0.5790082216262817,
+    "objects": [],
+    "tags": [
+      "outdoor",
+      "nature",
+      "sky",
+      "cloud",
+      "water",
+      "landscape",
+      "coastal and oceanic landforms",
+      "coast",
+      "headland",
+      "body of water",
+      "bight",
+      "cliff",
+      "raised beach",
+      "tropics",
+      "cape",
+      "bay",
+      "promontory",
+      "klippe",
+      "shore",
+      "sea",
+      "ocean",
+      "beach",
+      "rock",
+      "grass",
+      "island",
+      "mountain",
+      "wave",
+      "seascape"
+    ],
+    "dense_captions": [
+      "waves crashing on rocks",
+      "a cliff with trees on it",
+      "a cliff with trees and blue sky",
+      "a blue sky with clouds",
+      "a large rock on a rock",
+      "a large rock in the ocean",
+      "a close-up of a beach",
+      "a pile of brown rocks"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.43.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a group of purple flowers",
+    "caption_confidence": 0.7812362909317017,
+    "objects": [
+      {
+        "name": "flower",
+        "confidence": 0.676,
+        "x": 280,
+        "y": 755,
+        "width": 517,
+        "height": 532
+      }
+    ],
+    "tags": [
+      "plant",
+      "flower",
+      "petal",
+      "sky",
+      "pink",
+      "outdoor",
+      "annual plant",
+      "purple"
+    ],
+    "dense_captions": [
+      "a close up of a flower",
+      "a close up of a flower",
+      "a blurry image of a person's face",
+      "a close up of a leaf",
+      "a close-up of purple flowers",
+      "a close-up of a pink flower",
+      "a close up of a plant",
+      "a close up of a leaf"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.44 (1).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a boat on the water",
+    "caption_confidence": 0.7064731121063232,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.775,
+        "x": 7,
+        "y": 1313,
+        "width": 137,
+        "height": 287
+      },
+      {
+        "name": "person",
+        "confidence": 0.543,
+        "x": 378,
+        "y": 1323,
+        "width": 122,
+        "height": 254
+      }
+    ],
+    "tags": [
+      "sky",
+      "outdoor",
+      "water",
+      "cloud",
+      "boat",
+      "watercraft",
+      "sea",
+      "ship"
+    ],
+    "dense_captions": [
+      "a person walking on a blue surface",
+      "a yellow rectangular object with black rectangular objects",
+      "a person leaning on a railing",
+      "a blue bin with a picture of a trash can",
+      "people standing on a railing of a boat",
+      "a person with dark hair",
+      "a yellow building with a cloudy sky",
+      "a close up of a jersey",
+      "a red round object on a body of water"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.44 (2).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a group of people walking on a dock with a large ship",
+    "caption_confidence": 0.7261634469032288,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.632,
+        "x": 1119,
+        "y": 1105,
+        "width": 76,
+        "height": 252
+      },
+      {
+        "name": "person",
+        "confidence": 0.89,
+        "x": 474,
+        "y": 1061,
+        "width": 434,
+        "height": 537
+      },
+      {
+        "name": "person",
+        "confidence": 0.807,
+        "x": 920,
+        "y": 1081,
+        "width": 161,
+        "height": 423
+      },
+      {
+        "name": "boat",
+        "confidence": 0.665,
+        "x": 5,
+        "y": 52,
+        "width": 890,
+        "height": 1235
+      }
+    ],
+    "tags": [
+      "outdoor",
+      "sky",
+      "watercraft",
+      "ship",
+      "transport",
+      "plane",
+      "person",
+      "boat",
+      "people",
+      "military vehicle",
+      "ground"
+    ],
+    "dense_captions": [
+      "a person walking down a street",
+      "a person holding a bag",
+      "a large ship with a logo on it",
+      "a person walking down a sidewalk",
+      "a person carrying a blue bag",
+      "a person holding a suitcase",
+      "a person holding a cell phone",
+      "a person standing on a road with a phone"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.44.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a group of people in a classroom",
+    "caption_confidence": 0.8432338237762451,
+    "objects": [
+      {
+        "name": "television",
+        "confidence": 0.54,
+        "x": 397,
+        "y": 919,
+        "width": 366,
+        "height": 274
+      },
+      {
+        "name": "person",
+        "confidence": 0.728,
+        "x": 10,
+        "y": 995,
+        "width": 212,
+        "height": 422
+      },
+      {
+        "name": "person",
+        "confidence": 0.754,
+        "x": 651,
+        "y": 1131,
+        "width": 224,
+        "height": 267
+      },
+      {
+        "name": "person",
+        "confidence": 0.694,
+        "x": 868,
+        "y": 1083,
+        "width": 243,
+        "height": 331
+      },
+      {
+        "name": "person",
+        "confidence": 0.639,
+        "x": 1105,
+        "y": 990,
+        "width": 95,
+        "height": 473
+      },
+      {
+        "name": "person",
+        "confidence": 0.58,
+        "x": 149,
+        "y": 1181,
+        "width": 220,
+        "height": 365
+      },
+      {
+        "name": "person",
+        "confidence": 0.701,
+        "x": 7,
+        "y": 1211,
+        "width": 184,
+        "height": 374
+      },
+      {
+        "name": "person",
+        "confidence": 0.712,
+        "x": 163,
+        "y": 1225,
+        "width": 565,
+        "height": 375
+      },
+      {
+        "name": "chair",
+        "confidence": 0.666,
+        "x": 697,
+        "y": 1331,
+        "width": 289,
+        "height": 269
+      },
+      {
+        "name": "chair",
+        "confidence": 0.617,
+        "x": 963,
+        "y": 1296,
+        "width": 218,
+        "height": 292
+      }
+    ],
+    "tags": [
+      "indoor",
+      "clothing",
+      "person",
+      "computer",
+      "man",
+      "text",
+      "office building",
+      "wall",
+      "laptop",
+      "ceiling",
+      "job",
+      "chair",
+      "course",
+      "people",
+      "group"
+    ],
+    "dense_captions": [
+      "a screen with a qr code",
+      "a person taking a picture of himself",
+      "a screen with text on it",
+      "a person sitting in a room",
+      "a person in a yellow shirt",
+      "a person sitting in a chair",
+      "a qr code on a screen",
+      "a person holding a phone"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.45 (1).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a fan in a room",
+    "caption_confidence": 0.8022851943969727,
+    "objects": [
+      {
+        "name": "Mechanical fan",
+        "confidence": 0.677,
+        "x": 329,
+        "y": 380,
+        "width": 519,
+        "height": 879
+      }
+    ],
+    "tags": [
+      "indoor",
+      "wall",
+      "mechanical fan",
+      "fan",
+      "furniture",
+      "home appliance",
+      "room",
+      "ceiling fan",
+      "bed"
+    ],
+    "dense_captions": [
+      "a blue fan on a wall",
+      "a circular object with a white circle in the middle",
+      "a close-up of a box",
+      "a close up of a person's butt",
+      "a red bag with white text",
+      "a blue fan on a stand",
+      "a suitcase with clothes on top",
+      "close-up of a plastic wrapper",
+      "a person lying on a bed"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/WhatsApp Image 2026-10-23 at 09.15.45.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "caption": "a boat on the water",
+    "caption_confidence": 0.6988171935081482,
+    "objects": [],
+    "tags": [
+      "water",
+      "outdoor",
+      "sky",
+      "lake",
+      "horizon",
+      "sea",
+      "sunrise",
+      "sunset",
+      "sun",
+      "beach",
+      "boat"
+    ],
+    "dense_captions": [
+      "a person wearing a head scarf",
+      "a person on a deck overlooking a body of water",
+      "a sun in the sky",
+      "a person wearing a head scarf",
+      "a red and white life preserver on a fence",
+      "a railing on a boat",
+      "a person wearing a brown robe",
+      "a bright sun in the sky",
+      "a person standing on a deck overlooking the water"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001268.jpg",
+    "width": 640,
+    "height": 427,
+    "caption": "a couple of people taking a picture of a swan",
+    "caption_confidence": 0.7039508819580078,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.586,
+        "x": 1,
+        "y": 215,
+        "width": 30,
+        "height": 68
+      },
+      {
+        "name": "bird",
+        "confidence": 0.636,
+        "x": 198,
+        "y": 225,
+        "width": 61,
+        "height": 32
+      },
+      {
+        "name": "person",
+        "confidence": 0.689,
+        "x": 405,
+        "y": 211,
+        "width": 57,
+        "height": 78
+      },
+      {
+        "name": "person",
+        "confidence": 0.891,
+        "x": 503,
+        "y": 95,
+        "width": 133,
+        "height": 332
+      },
+      {
+        "name": "handbag",
+        "confidence": 0.585,
+        "x": 500,
+        "y": 197,
+        "width": 92,
+        "height": 208
+      }
+    ],
+    "tags": [
+      "person",
+      "clothing",
+      "outdoor",
+      "water",
+      "lake",
+      "bridge",
+      "people",
+      "woman",
+      "ground",
+      "standing",
+      "looking",
+      "river",
+      "pier",
+      "lady",
+      "dock",
+      "street"
+    ],
+    "dense_captions": [
+      "a person sitting down on a ledge",
+      "a person taking a picture of herself",
+      "a person sitting on a boat",
+      "a close-up of a person's handbag"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001296.jpg",
+    "width": 427,
+    "height": 640,
+    "caption": "a person looking at a cell phone",
+    "caption_confidence": 0.8119615316390991,
+    "objects": [
+      {
+        "name": "cell phone",
+        "confidence": 0.54,
+        "x": 295,
+        "y": 142,
+        "width": 84,
+        "height": 140
+      },
+      {
+        "name": "person",
+        "confidence": 0.741,
+        "x": 31,
+        "y": 19,
+        "width": 367,
+        "height": 473
+      }
+    ],
+    "tags": [
+      "person",
+      "human face",
+      "fashion accessory",
+      "clothing",
+      "watch",
+      "mobile phone",
+      "girl",
+      "holding",
+      "black hair",
+      "finger",
+      "phone",
+      "woman",
+      "nail",
+      "wrist",
+      "outdoor",
+      "cellphone",
+      "street"
+    ],
+    "dense_captions": [
+      "a person holding a white container with a cartoon character",
+      "a close-up of a phone",
+      "a blurry image of a person's face"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001353.jpg",
+    "width": 375,
+    "height": 500,
+    "caption": "a group of children riding a train",
+    "caption_confidence": 0.743380606174469,
+    "objects": [],
+    "tags": [
+      "clothing",
+      "person",
+      "human face",
+      "floor",
+      "indoor",
+      "footwear",
+      "bumper car",
+      "sitting",
+      "woman",
+      "red"
+    ],
+    "dense_captions": [
+      "a child sitting in a chair",
+      "a close up of a child's face",
+      "a red and gold object",
+      "a person sitting on a chair",
+      "a blurry image of a child",
+      "a close-up of a yellow and red object",
+      "a group of children on a ride",
+      "a close-up of a child's face",
+      "a group of children riding a red and gold sled"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001425.jpg",
+    "width": 640,
+    "height": 512,
+    "caption": "a sandwich on a plate",
+    "caption_confidence": 0.8166183829307556,
+    "objects": [
+      {
+        "name": "Tableware",
+        "confidence": 0.512,
+        "x": 503,
+        "y": 192,
+        "width": 137,
+        "height": 185
+      },
+      {
+        "name": "Food",
+        "confidence": 0.852,
+        "x": 52,
+        "y": 180,
+        "width": 382,
+        "height": 214
+      }
+    ],
+    "tags": [
+      "fast food",
+      "food",
+      "black and white",
+      "baked goods",
+      "indoor",
+      "table",
+      "black",
+      "monochrome",
+      "sandwich",
+      "coffee"
+    ],
+    "dense_captions": [
+      "a close-up of a sandwich",
+      "close-up of a white pot",
+      "a close-up of a sandwich"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001490.jpg",
+    "width": 640,
+    "height": 315,
+    "caption": "a person on a surfboard in the water",
+    "caption_confidence": 0.7451832294464111,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.783,
+        "x": 456,
+        "y": 118,
+        "width": 45,
+        "height": 126
+      }
+    ],
+    "tags": [
+      "outdoor",
+      "water",
+      "surfboard",
+      "person",
+      "sport",
+      "sky",
+      "boardsport",
+      "black and white",
+      "surfing equipment",
+      "stand up paddle surfing",
+      "recreation",
+      "surface water sports",
+      "beach",
+      "outdoor recreation",
+      "sports equipment",
+      "surfing",
+      "ocean"
+    ],
+    "dense_captions": [
+      "a person in a wet suit on a surfboard",
+      "a person in a wet suit holding a paddle",
+      "a person in a wet suit",
+      "a person is surfing in the ocean",
+      "a person holding a paddle",
+      "a white background with a few people",
+      "a body of water with waves",
+      "a person holding a paddle"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001503.jpg",
+    "width": 320,
+    "height": 240,
+    "caption": "a computer on a desk",
+    "caption_confidence": 0.7363482117652893,
+    "objects": [
+      {
+        "name": "computer mouse",
+        "confidence": 0.694,
+        "x": 125,
+        "y": 180,
+        "width": 33,
+        "height": 22
+      },
+      {
+        "name": "television",
+        "confidence": 0.717,
+        "x": 126,
+        "y": 12,
+        "width": 109,
+        "height": 97
+      },
+      {
+        "name": "computer keyboard",
+        "confidence": 0.545,
+        "x": 3,
+        "y": 171,
+        "width": 103,
+        "height": 42
+      },
+      {
+        "name": "Laptop",
+        "confidence": 0.537,
+        "x": 0,
+        "y": 96,
+        "width": 122,
+        "height": 140
+      }
+    ],
+    "tags": [
+      "indoor",
+      "computer",
+      "personal computer",
+      "output device",
+      "desk",
+      "computer monitor",
+      "computer keyboard",
+      "computer desk",
+      "computer hardware",
+      "wall",
+      "desktop computer",
+      "office equipment",
+      "input device",
+      "peripheral",
+      "space bar",
+      "computer terminal",
+      "personal computer hardware",
+      "computer mouse",
+      "table",
+      "computer component",
+      "office supplies",
+      "electronic device",
+      "keyboard",
+      "monitor",
+      "flat panel display",
+      "electronics",
+      "mac",
+      "mouse",
+      "desktop",
+      "office",
+      "sitting",
+      "laptop"
+    ],
+    "dense_captions": [
+      "a laptop on a desk",
+      "a white rectangular computer screen",
+      "a window with blinds on it",
+      "a blurry image of a grey couch"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001532.jpg",
+    "width": 640,
+    "height": 480,
+    "caption": "a freeway with persony cars and signs",
+    "caption_confidence": 0.5578738451004028,
+    "objects": [
+      {
+        "name": "Land vehicle",
+        "confidence": 0.806,
+        "x": 107,
+        "y": 373,
+        "width": 84,
+        "height": 66
+      },
+      {
+        "name": "car",
+        "confidence": 0.596,
+        "x": 204,
+        "y": 400,
+        "width": 36,
+        "height": 34
+      },
+      {
+        "name": "car",
+        "confidence": 0.645,
+        "x": 432,
+        "y": 399,
+        "width": 53,
+        "height": 48
+      },
+      {
+        "name": "car",
+        "confidence": 0.546,
+        "x": 500,
+        "y": 389,
+        "width": 47,
+        "height": 58
+      },
+      {
+        "name": "car",
+        "confidence": 0.823,
+        "x": 1,
+        "y": 379,
+        "width": 112,
+        "height": 101
+      },
+      {
+        "name": "car",
+        "confidence": 0.67,
+        "x": 222,
+        "y": 354,
+        "width": 200,
+        "height": 125
+      }
+    ],
+    "tags": [
+      "text",
+      "outdoor",
+      "land vehicle",
+      "vehicle",
+      "sky",
+      "vehicle registration plate",
+      "road",
+      "car",
+      "wheel",
+      "overpass",
+      "freeway",
+      "bridge",
+      "infrastructure",
+      "street",
+      "motor vehicle",
+      "highway",
+      "sign",
+      "expressway",
+      "driving"
+    ],
+    "dense_captions": [
+      "a taxi on the street",
+      "a black car on the road",
+      "a white van on the road",
+      "a black jeep with spare tire"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001584.jpg",
+    "width": 612,
+    "height": 612,
+    "caption": "a red double decker bus on a street",
+    "caption_confidence": 0.8335179090499878,
+    "objects": [
+      {
+        "name": "shuttle bus",
+        "confidence": 0.587,
+        "x": 515,
+        "y": 318,
+        "width": 54,
+        "height": 70
+      },
+      {
+        "name": "shuttle bus",
+        "confidence": 0.546,
+        "x": 577,
+        "y": 316,
+        "width": 31,
+        "height": 91
+      },
+      {
+        "name": "shuttle bus",
+        "confidence": 0.885,
+        "x": 125,
+        "y": 91,
+        "width": 395,
+        "height": 434
+      }
+    ],
+    "tags": [
+      "outdoor",
+      "vehicle",
+      "land vehicle",
+      "bus",
+      "road",
+      "text",
+      "double-decker bus",
+      "decker",
+      "transport",
+      "red",
+      "mode of transport",
+      "wheel",
+      "street",
+      "building",
+      "sky",
+      "city",
+      "driving"
+    ],
+    "dense_captions": [
+      "a red double decker bus",
+      "a red bus with a black background",
+      "a person in a white shirt"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001675.jpg",
+    "width": 640,
+    "height": 480,
+    "caption": "a cat lying in a laptop",
+    "caption_confidence": 0.7402808666229248,
+    "objects": [],
+    "tags": [
+      "computer",
+      "small to medium-sized cats",
+      "laptop",
+      "indoor",
+      "felidae",
+      "whiskers",
+      "sitting",
+      "keyboard",
+      "mammal",
+      "black",
+      "domestic cat",
+      "cat",
+      "animal"
+    ],
+    "dense_captions": [
+      "a cat lying in a refrigerator",
+      "a close-up of a keyboard"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/coco_000000001761.jpg",
+    "width": 427,
+    "height": 640,
+    "caption": "an airplane flying over a bridge",
+    "caption_confidence": 0.8637866973876953,
+    "objects": [
+      {
+        "name": "airplane",
+        "confidence": 0.757,
+        "x": 277,
+        "y": 138,
+        "width": 56,
+        "height": 51
+      },
+      {
+        "name": "airplane",
+        "confidence": 0.743,
+        "x": 144,
+        "y": 6,
+        "width": 86,
+        "height": 87
+      },
+      {
+        "name": "steel arch bridge",
+        "confidence": 0.762,
+        "x": 20,
+        "y": 429,
+        "width": 406,
+        "height": 192
+      }
+    ],
+    "tags": [
+      "outdoor",
+      "sky",
+      "cloud",
+      "airplane",
+      "aircraft",
+      "plane",
+      "flight",
+      "vehicle",
+      "water",
+      "bridge"
+    ],
+    "dense_captions": [
+      "a plane flying in the sky"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/demo-27-agustus-2026-digelar-di-jakarta-ini-tuntutan-dan-lokasi-aksinya-20260827111734.jpg",
+    "width": 1080,
+    "height": 1448,
+    "caption": "a group of people standing in front of a fence",
+    "caption_confidence": 0.8075885772705078,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.64,
+        "x": 267,
+        "y": 653,
+        "width": 107,
+        "height": 197
+      },
+      {
+        "name": "person",
+        "confidence": 0.598,
+        "x": 349,
+        "y": 666,
+        "width": 104,
+        "height": 180
+      },
+      {
+        "name": "person",
+        "confidence": 0.577,
+        "x": 207,
+        "y": 816,
+        "width": 177,
+        "height": 273
+      },
+      {
+        "name": "person",
+        "confidence": 0.675,
+        "x": 297,
+        "y": 892,
+        "width": 243,
+        "height": 525
+      },
+      {
+        "name": "person",
+        "confidence": 0.642,
+        "x": 435,
+        "y": 943,
+        "width": 366,
+        "height": 505
+      }
+    ],
+    "tags": [
+      "person",
+      "clothing",
+      "man",
+      "outdoor",
+      "text",
+      "demonstration",
+      "woman",
+      "banner",
+      "rebellion",
+      "people",
+      "human face",
+      "sign",
+      "group",
+      "crowd",
+      "flag",
+      "presentation"
+    ],
+    "dense_captions": [
+      "a back view of a person with a ponytail",
+      "a red and white flag",
+      "a person wearing a plaid shirt",
+      "a person wearing a green jacket",
+      "a blurry image of a person's face",
+      "a person holding a flag",
+      "a group of people holding signs",
+      "a blurry picture of a person",
+      "a sign with a picture of two people"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/e3a18b83-dra_9941-scaled.jpg",
+    "width": 1707,
+    "height": 2560,
+    "caption": "a group of people on a tall banner",
+    "caption_confidence": 0.6711626648902893,
+    "objects": [],
+    "tags": [
+      "text",
+      "outdoor",
+      "sky",
+      "building",
+      "sign",
+      "city",
+      "statue",
+      "street"
+    ],
+    "dense_captions": [
+      "a statue of two people holding their hands up",
+      "a yellow banner with black text",
+      "water spraying out of a fountain",
+      "a banner with a person wearing a mask",
+      "a bus with water spouting out of it",
+      "a close-up of a building",
+      "a group of people on a tall tower",
+      "a statue of a person with a dragon head",
+      "a person in a helmet climbing a power line"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/images.jpeg",
+    "width": 399,
+    "height": 501,
+    "caption": "a person climbing a wall with a sign",
+    "caption_confidence": 0.5944783091545105,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.657,
+        "x": 137,
+        "y": 40,
+        "width": 110,
+        "height": 205
+      }
+    ],
+    "tags": [
+      "text",
+      "art",
+      "statue",
+      "cartoon",
+      "poster",
+      "outdoor",
+      "sign"
+    ],
+    "dense_captions": [
+      "a close-up of a statue",
+      "a statue of a person holding a gun",
+      "a couple of people wearing safety gear",
+      "a person holding a sign",
+      "a person holding a yellow sign",
+      "a person standing on a pole",
+      "a statue of a person with his arms raised"
+    ]
+  },
+  {
+    "image_path": "/home/muhammad-nafal-zakin-rustanto/Project/AzureVision-Senpro/images/mahasiswa-yang-melakukan-aksi-demonstrasi-indonesia-gelap-di-patung-kuda-jakarta-pusat-berhasil-membongkar-barier-beton-yang-d-1740054105051_169.jpeg",
+    "width": 650,
+    "height": 366,
+    "caption": "a group of people holding signs",
+    "caption_confidence": 0.7810242176055908,
+    "objects": [
+      {
+        "name": "person",
+        "confidence": 0.703,
+        "x": 42,
+        "y": 235,
+        "width": 86,
+        "height": 128
+      },
+      {
+        "name": "person",
+        "confidence": 0.527,
+        "x": 214,
+        "y": 231,
+        "width": 67,
+        "height": 131
+      },
+      {
+        "name": "person",
+        "confidence": 0.611,
+        "x": 511,
+        "y": 226,
+        "width": 96,
+        "height": 134
+      },
+      {
+        "name": "person",
+        "confidence": 0.699,
+        "x": 0,
+        "y": 259,
+        "width": 64,
+        "height": 106
+      },
+      {
+        "name": "person",
+        "confidence": 0.596,
+        "x": 407,
+        "y": 261,
+        "width": 145,
+        "height": 104
+      }
+    ],
+    "tags": [
+      "clothing",
+      "human face",
+      "outdoor",
+      "person",
+      "sky",
+      "man",
+      "tree",
+      "crowd",
+      "woman",
+      "building",
+      "demonstration",
+      "rebellion",
+      "people",
+      "group",
+      "street",
+      "large",
+      "sign"
+    ],
+    "dense_captions": [
+      "a person with a mustache",
+      "a sign with a cat and a person",
+      "a person wearing a mask",
+      "a blurry image of a person's ear",
+      "a person in a uniform",
+      "a group of people walking on a street",
+      "a close up of a person",
+      "a person with a hat raising their arm",
+      "a person with black face covering"
+    ]
+  }
+]
